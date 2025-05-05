@@ -9,6 +9,9 @@ const dmSans = DM_Sans({
 export const metadata: Metadata = {
   title: "NeoAgora",
   description: "The Digital marketplace",
+  icons: {
+    icon: '/favicon.ico',
+  },
 };
 
 export default function RootLayout({
