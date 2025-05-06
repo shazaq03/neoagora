@@ -8,7 +8,7 @@ import { useState } from "react"
 
 import { Button } from "@/components/ui/button"
 import { NavbarSidebar } from "./navbar-sidebar"
-import { Ghost, MenuIcon } from "lucide-react"
+import { MenuIcon } from "lucide-react"
 
 
 const poppins = Poppins({
